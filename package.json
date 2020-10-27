@@ -1,0 +1,27 @@
+{
+  "name": "casadocodigo",
+  "version": "1.0.0",
+  "description": "Livraria Casa do codigo personalizada",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vgomesfalcao/casadocodigo.git"
+  },
+  "keywords": [
+    "Vinícius",
+    "Gomes"
+  ],
+  "author": "Vinícius Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vgomesfalcao/casadocodigo/issues"
+  },
+  "homepage": "https://github.com/vgomesfalcao/casadocodigo#readme",
+  "dependencies": {
+    "express": "4.16.3"
+  }
+}
