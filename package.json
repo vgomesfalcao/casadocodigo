@@ -23,5 +23,6 @@
   "homepage": "https://github.com/vgomesfalcao/casadocodigo#readme",
   "dependencies": {
     "express": "4.16.3"
-  }
+  },
+  "devDependencies": {}
 }
